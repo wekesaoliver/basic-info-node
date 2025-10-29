@@ -8,5 +8,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wekesaoliver/basic-info-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wekesaoliver/basic-info-node/issues"
+  },
+  "homepage": "https://github.com/wekesaoliver/basic-info-node#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
